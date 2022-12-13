@@ -1,0 +1,12 @@
+{
+  "name": "node-jwt-curso",
+  "version": "1.0.0",
+  "description": "Curso de criptografia e tokens JWT utilizando Node.js",
+  "main": "cifra.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./hash/hash.js"
+  },
+  "author": "Lucas da Paz",
+  "license": "ISC"
+}
