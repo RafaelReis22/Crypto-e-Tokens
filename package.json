@@ -5,7 +5,7 @@
   "main": "cifra.js",
   "type": "module",
   "scripts": {
-    "test": "node ./encriptacao/encriptacaoAssimetrica.js"
+    "test": "node ./assinatura/assinatura.js"
   },
   "author": "Lucas da Paz",
   "license": "ISC"
