@@ -5,7 +5,7 @@
   "main": "cifra.js",
   "type": "module",
   "scripts": {
-    "test": "node ./token/token.js"
+    "test": "node ./simulacao/ataqueRainbowTable.js"
   },
   "author": "Lucas da Paz",
   "license": "ISC",
