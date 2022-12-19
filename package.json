@@ -5,8 +5,11 @@
   "main": "cifra.js",
   "type": "module",
   "scripts": {
-    "test": "node ./assinatura/assinatura.js"
+    "test": "node ./token/token.js"
   },
   "author": "Lucas da Paz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
 }
